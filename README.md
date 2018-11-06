@@ -3,6 +3,9 @@
 ## Title
 
 A comparative experimental analysis of traditional approaches and deep learning based for fake news identification
+<pre>
+https://github.com/phelipegm/ai-undergraduate-thesis-project/tree/master/fake_news_classifier_project
+</pre>
 
 ## Objective
 
