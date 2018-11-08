@@ -13,9 +13,9 @@ To realize practical experiments to compare the performance of techniques based 
 
 ## Dataset
 
-The dataset was created by Maciej Szpakowski (https://github.com/several27), it is currently hosted on a public S3 bucket and is about 9.1GB in size.
+The dataset was first created by Maciej Szpakowski (https://github.com/several27), but I have changed a little bit in order to only leave 'REAL' and 'FAKE' labels. The file it is about 8GB.
 <pre>
-http://researchably-fake-news-recognition.s3.amazonaws.com/public_corpus/news_cleaned_2018_02_13.csv.zip
+https://drive.google.com/open?id=1RoM1T5RXKtPsImceb-QBaRRlb-h59LEK
 </pre>
 
 Because the dataset is too big, while the thesis is not on its final version I'm using the dataset created by George McIntire (https://github.com/GeorgeMcIntire). It is about 30 MB.
