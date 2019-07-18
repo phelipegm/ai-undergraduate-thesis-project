@@ -19,10 +19,11 @@ The dataset was first created by Maciej Szpakowski (https://github.com/several27
   <img src="https://github.com/phelipegm/ai-undergraduate-thesis-project/blob/master/datasets.png">
 </p>
 
-You can find the datasets in the following folder on Google Drive:
+You can find the datasets to use on this project in the following folder on Google Drive:
 
 <pre align="center">
   https://drive.google.com/drive/folders/1FP1mjFmJDFF675dEdwNDfbISxXskrTs9?usp=sharing
 </pre>
 
+For further information the monography can be found <a href="https://github.com/phelipegm/ai-undergraduate-thesis-project/blob/master/fake_news_classifier_project/TCC_FINAL_VERSION_PHELIPE_MARTINS.pdf">here</a>. Thank you!
 
